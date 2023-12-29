@@ -104,6 +104,7 @@ img{
 body{
     font-family: var(--ff-primary);
 	font-size: var(--fs-primary);
+	background-color: var(--clr-off-white);
 	overflow-x: hidden;
 }
 /* End of General */
@@ -204,7 +205,6 @@ main{
 /* List Section */
 .list-section{
 	color: var(--clr-dark-purple);
-	background-color: var(--clr-off-white);
 }
 
 .list-section ul{
