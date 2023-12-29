@@ -370,10 +370,6 @@ footer svg:hover{
 		justify-content: center;
 	}
 
-	*{
-		outline: 1px solid black;
-	}
-
 	.list-section h2{
 		align-self: center;
 	}
